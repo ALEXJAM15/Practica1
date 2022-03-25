@@ -2,7 +2,7 @@
 function Carro() {
     return (
         <div> 
-        DESPEDIDA
+        DESPEDIDA2
         </div>
     );
   }
