@@ -1,4 +1,3 @@
-import Carro from "./Components/Carro";
 import Saludo from "./Components/Saludo";
 
 
@@ -7,12 +6,6 @@ function App() {
       <> 
         hola mundo!
         <Saludo/>
-        <Saludo/>
-        <Saludo/>
-        <Saludo/>
-        <Saludo/>
-        <Saludo/>
-        <Carro/>
       </>
       
   );
